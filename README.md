@@ -1,8 +1,6 @@
 ### Hi there👋, I am Ricardo  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardoharanopinto/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoHaranoP&show_icons=true&theme=tokyonight)
-
 ### Languages | Frameworks | Tools
 <div>
     <img height='50px' width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
